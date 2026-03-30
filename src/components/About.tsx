@@ -13,9 +13,9 @@ export default function About() {
             viewport={{ once: true }}
             className="relative"
           >
-            <div className="relative z-10 rounded-[4rem] overflow-hidden shadow-2xl">
+            <div className="relative z-10 rounded-[4rem] overflow-hidden shadow-2xl border-8 border-white">
               <img 
-                src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80&w=800" 
+                src="/1774833706620.jpg" 
                 alt="Advanced Lab Equipment" 
                 className="w-full h-[600px] object-cover"
                 referrerPolicy="no-referrer"

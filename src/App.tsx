@@ -8,6 +8,7 @@ import ReportDownload from './components/ReportDownload';
 import Doctors from './components/Doctors';
 import TrustSection from './components/TrustSection';
 import Footer from './components/Footer';
+import Gallery from './components/Gallery';
 import FloatingActions from './components/FloatingActions';
 
 export default function App() {
@@ -18,6 +19,7 @@ export default function App() {
         <Hero />
         <About />
         <Services />
+        <Gallery />
         <BookingForm />
         <ReportDownload />
         <Doctors />

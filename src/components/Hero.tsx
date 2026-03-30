@@ -59,10 +59,10 @@ export default function Hero() {
             transition={{ duration: 1 }}
             className="relative hidden lg:block"
           >
-            <div className="relative z-10 rounded-[3rem] overflow-hidden shadow-2xl">
+            <div className="relative z-10 rounded-[3rem] overflow-hidden shadow-2xl border-8 border-white">
               <img 
                 src="/hero-doctor.png" 
-                alt="Medical Laboratory" 
+                alt="Ultra Care Diagnostic Lab" 
                 className="w-full h-[600px] object-cover"
                 referrerPolicy="no-referrer"
               />
