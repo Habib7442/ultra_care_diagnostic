@@ -1,0 +1,7 @@
+{
+  "name": "Ultra Care Diagnostics",
+  "description": "Premium diagnostic lab in Silchar powered by Barak Path Lab, offering accurate tests and expert care.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

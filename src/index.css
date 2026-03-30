@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --color-primary: #0B3C5D;
+  --color-secondary: #2ECC71;
+  --color-accent: #E0F2FE;
+}
+
+@layer base {
+  body {
+    @apply font-sans text-slate-900 bg-white;
+  }
+}
+
+.glass {
+  @apply bg-white/80 backdrop-blur-md border border-white/20;
+}
+
+.medical-gradient {
+  background: radial-gradient(circle at 50% 30%, #f0f9ff 0%, transparent 60%),
+              radial-gradient(circle at 10% 80%, #ecfdf5 0%, transparent 50%);
+}
