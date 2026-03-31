@@ -43,15 +43,15 @@ export default function Footer() {
             <ul className="space-y-6 text-primary-foreground/60 text-sm">
               <li className="flex items-start">
                 <MapPin className="w-5 h-5 mr-4 text-secondary flex-shrink-0" />
-                <span>Ghungoor, Silchar, Assam - 788014</span>
+                <span>GHUNGOOR, SMCH POINT, SILCHAR, PIN - 788014</span>
               </li>
               <li className="flex items-center">
                 <Phone className="w-5 h-5 mr-4 text-secondary flex-shrink-0" />
-                <span>+91 9395963105</span>
+                <span>+91 99573 43303</span>
               </li>
               <li className="flex items-center">
                 <Mail className="w-5 h-5 mr-4 text-secondary flex-shrink-0" />
-                <span>info@ultracarediagnostics.com</span>
+                <span>ultracare60@gmail.com</span>
               </li>
             </ul>
           </div>

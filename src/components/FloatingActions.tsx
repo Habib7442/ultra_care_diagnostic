@@ -34,7 +34,7 @@ export default function FloatingActions() {
       <motion.a
         whileHover={{ scale: 1.1 }}
         whileTap={{ scale: 0.9 }}
-        href="tel:+919395963105"
+        href="tel:+919957343303"
         className="w-14 h-14 bg-primary text-white rounded-full shadow-2xl flex items-center justify-center hover:bg-opacity-90 transition-all"
       >
         <PhoneCall className="w-6 h-6" />
@@ -43,7 +43,7 @@ export default function FloatingActions() {
       <motion.a
         whileHover={{ scale: 1.1 }}
         whileTap={{ scale: 0.9 }}
-        href="https://wa.me/919395963105"
+        href="https://wa.me/919957343303"
         target="_blank"
         rel="noopener noreferrer"
         className="w-14 h-14 bg-secondary text-white rounded-full shadow-2xl flex items-center justify-center hover:bg-opacity-90 transition-all"

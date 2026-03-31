@@ -64,7 +64,7 @@ export default function ReportDownload() {
                   Download Now <ArrowRight className="w-5 h-5 ml-2" />
                 </button>
                 <p className="text-center text-xs text-slate-400 font-medium">
-                  Facing issues? Contact our support at +91 9395963105
+                  Facing issues? Contact our support at +91 99573 43303
                 </p>
               </div>
             </div>

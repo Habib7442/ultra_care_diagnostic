@@ -43,9 +43,9 @@ export default function Navbar() {
               </a>
             ))}
             <div className="flex items-center space-x-4">
-              <a href="tel:+919395963105" className="flex items-center text-primary font-semibold">
+              <a href="tel:+919957343303" className="flex items-center text-primary font-semibold">
                 <Phone className="w-4 h-4 mr-2" />
-                <span className="text-sm">9395963105</span>
+                <span className="text-sm">99573 43303</span>
               </a>
               <button className="bg-primary text-white px-5 py-2 rounded-full text-sm font-semibold hover:bg-opacity-90 transition-all shadow-lg shadow-primary/20">
                 Book Test
